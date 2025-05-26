@@ -328,3 +328,8 @@ form div.field {
     color:#666;
     border-radius:4px;
 }
+
+.total_img {
+    width: 250px;
+    height: 250px;
+}
